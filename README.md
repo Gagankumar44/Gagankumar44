@@ -1,6 +1,8 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./ai-lab/hero-mobile.svg">
-  <img src="./ai-lab/hero.svg" width="100%" alt="Gagan Kumar — curious about AI, always exploring. Python, Java, and computer-systems foundations. Learning AI models, training, and automations.">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./ai-lab/curiosity-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./ai-lab/curiosity-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./ai-lab/curiosity-light.svg">
+  <img src="./ai-lab/curiosity.svg" width="100%" alt="Gagan Kumar — curious about AI, always exploring. Python, Java, and computer-systems foundations. Learning AI models, training, and automations.">
 </picture>
 
 <p align="center">
@@ -19,7 +21,9 @@ I research AI topics, explore new ideas, and connect them with my programming an
 **Currently learning:** AI models, model training, and AI automation workflows.
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./ai-lab/learning-loop-mobile-light.svg">
   <source media="(max-width: 600px)" srcset="./ai-lab/learning-loop-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./ai-lab/learning-loop-light.svg">
   <img src="./ai-lab/learning-loop.svg" width="100%" alt="My learning loop: research → experiment → understand → improve.">
 </picture>
 

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="91" viewBox="0 0 1000 91" role="img" aria-labelledby="title desc">
+<title id="title">Research, experiment, understand, improve</title><desc id="desc">My learning loop. A decorative signal flows between four stages.</desc>
+<defs>
+<linearGradient id="spectrum"><stop stop-color="#007f73"/><stop offset=".5" stop-color="#7b62b9"/><stop offset="1" stop-color="#9d5a16"/></linearGradient>
+<linearGradient id="name" x2="1" y2=".3"><stop stop-color="#14243b"/><stop offset="1" stop-color="#485780"/></linearGradient>
+<radialGradient id="wash"><stop stop-color="#cfc9e3" stop-opacity=".19"/><stop offset="1" stop-color="#f7f9fc" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan"><stop stop-color="#3db5a6" stop-opacity=".2"/><stop offset="1" stop-color="#f7f9fc" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".8" fill="#a4b0c4" opacity=".5"/></pattern>
+<clipPath id="edge"><rect width="1000" height="91" rx="20"/></clipPath>
+</defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.weave{transform-box:fill-box;transform-origin:center;animation:breathe 9s ease-in-out infinite}.trace{stroke-dasharray:20 300;animation:trace 8s linear infinite}.flow{stroke-dasharray:6 13;animation:flow 5s linear infinite}.cursor{animation:cursor 2.4s steps(1,end) infinite}@keyframes breathe{0%,100%{transform:translateY(2px) rotate(-1deg)}50%{transform:translateY(-4px) rotate(1deg)}}@keyframes trace{to{stroke-dashoffset:-640}}@keyframes flow{to{stroke-dashoffset:-190}}@keyframes cursor{0%,60%{opacity:1}61%,100%{opacity:.2}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#edge)"><rect width="1000" height="91" fill="#f7f9fc"/><rect width="1000" height="91" fill="url(#dots)"/><ellipse cx="850" cy="40.95" rx="320" ry="72.8" fill="url(#wash)"/><ellipse cx="200" cy="91" rx="500" ry="72.8" fill="url(#cyan)"/>
+  <path d="M120 46H880" stroke="#c4d0df" stroke-width="2"/><path class="flow" d="M120 46H880" stroke="url(#spectrum)" stroke-width="2"/>
+  <rect x="23" y="23" width="213" height="44" rx="12" fill="#eef3fa" stroke="#cbd5e5"/><text x="129.5" y="51" font-size="16" fill="#007f73" class="mono" text-anchor="middle">RESEARCH</text><rect x="270" y="23" width="213" height="44" rx="12" fill="#eef3fa" stroke="#cbd5e5"/><text x="376.5" y="51" font-size="16" fill="#7757b4" class="mono" text-anchor="middle">EXPERIMENT</text><rect x="517" y="23" width="213" height="44" rx="12" fill="#eef3fa" stroke="#cbd5e5"/><text x="623.5" y="51" font-size="16" fill="#9d5a16" class="mono" text-anchor="middle">UNDERSTAND</text><rect x="764" y="23" width="213" height="44" rx="12" fill="#eef3fa" stroke="#cbd5e5"/><text x="870.5" y="51" font-size="16" fill="#007f73" class="mono" text-anchor="middle">IMPROVE</text></g>
+<rect x=".5" y=".5" width="999" height="90" rx="20" fill="none" stroke="#d7dfeb"/>
+</svg>

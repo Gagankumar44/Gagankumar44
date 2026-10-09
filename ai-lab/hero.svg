@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Gagan Kumar — curious about AI, always exploring</title><desc id="desc">Python and Java. Programming and systems foundations. Learning AI models, training and automations. An animated constellation connects code with curiosity.</desc>
+<defs>
+<linearGradient id="spectrum"><stop stop-color="#6aead8"/><stop offset=".5" stop-color="#a79aff"/><stop offset="1" stop-color="#ffd291"/></linearGradient>
+<linearGradient id="name" x2="1" y2=".3"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#c7caff"/></linearGradient>
+<radialGradient id="wash"><stop stop-color="#5f3ba2" stop-opacity=".35"/><stop offset="1" stop-color="#0b1223" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan"><stop stop-color="#0c766f" stop-opacity=".2"/><stop offset="1" stop-color="#0b1223" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".8" fill="#3d4964" opacity=".5"/></pattern>
+<clipPath id="edge"><rect width="1000" height="360" rx="20"/></clipPath>
+</defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.spin{transform-box:fill-box;transform-origin:center;animation:orbit 19s linear infinite}.reverse{animation-direction:reverse;animation-duration:28s}.flow{stroke-dasharray:6 13;animation:flow 5s linear infinite}.glimmer{animation:glimmer 4s ease-in-out infinite}.cursor{animation:cursor 2.4s steps(1,end) infinite}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes flow{to{stroke-dashoffset:-190}}@keyframes glimmer{0%,100%{opacity:.55}50%{opacity:1}}@keyframes cursor{0%,60%{opacity:1}61%,100%{opacity:.2}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#edge)"><rect width="1000" height="360" fill="#0b1223"/><rect width="1000" height="360" fill="url(#dots)"/><ellipse cx="850" cy="162" rx="320" ry="288" fill="url(#wash)"/><ellipse cx="200" cy="360" rx="500" ry="288" fill="url(#cyan)"/>
+  <path d="M32 2H968" stroke="url(#spectrum)" stroke-width="3"/>
+  <text x="34" y="39" font-size="14" fill="#6aead8" class="mono" >GAGAN / AI &amp; SOFTWARE</text><text x="966" y="39" font-size="12" fill="#b2bfd6" class="mono" text-anchor="end">RESEARCH • LEARN • BUILD</text>
+  <text x="29" y="144" font-size="77" fill="url(#name)" font-weight="800" letter-spacing="-3">GAGAN KUMAR</text>
+  <text x="34" y="196" font-size="27" fill="#f4f7ff" >Curious about AI. Always exploring.</text>
+  <text x="35" y="232" font-size="16" fill="#b2bfd6" class="mono" >> models · training · automations</text>
+  <rect class="cursor" x="360" y="219" width="8" height="16" fill="#6aead8"/>
+  <rect x="34" y="273" width="104" height="33" rx="16.5" fill="#151f34" stroke="#35425b"/><text x="86" y="295" font-size="12" fill="#6aead8" class="mono" text-anchor="middle">PYTHON</text><rect x="150" y="273" width="86" height="33" rx="16.5" fill="#151f34" stroke="#35425b"/><text x="193" y="295" font-size="12" fill="#c5b0ff" class="mono" text-anchor="middle">JAVA</text><rect x="248" y="273" width="183" height="33" rx="16.5" fill="#151f34" stroke="#35425b"/><text x="339.5" y="295" font-size="12" fill="#ffd291" class="mono" text-anchor="middle">COMPUTER SYSTEMS</text>
+  <g transform="translate(817,187) scale(0.86)">
+<circle r="140" fill="none" stroke="#293750"/><circle r="111" fill="none" stroke="#35415d" stroke-dasharray="2 9"/>
+<g class="spin"><circle r="140" fill="none" stroke="url(#spectrum)" stroke-width="2" stroke-dasharray="90 790"/><circle cx="140" cy="0" r="5" fill="#6aead8"/></g>
+<g class="spin reverse"><circle r="96" fill="none" stroke="#c5b0ff" stroke-width="1.5" stroke-dasharray="43 560"/></g>
+<path d="M-88 -74L0 0L104 -23M0 0L-14 114M-88 -74L104 -23L-14 114Z" fill="none" stroke="#485775" stroke-width="1.5"/>
+<path class="flow" d="M-88 -74L0 0L104 -23M0 0L-14 114" fill="none" stroke="url(#spectrum)" stroke-width="2"/>
+<rect x="-45" y="-45" width="90" height="90" rx="24" fill="#18243c" stroke="#c5b0ff" stroke-width="1.5"/>
+<text x="0" y="13" font-size="36" fill="#f4f7ff" font-weight="700" text-anchor="middle">AI</text>
+<circle cx="-88" cy="-74" r="20" fill="#132c34" stroke="#6aead8"/><text x="-88" y="-69" font-size="16" fill="#6aead8" class="mono" text-anchor="middle">&lt;></text>
+<circle cx="104" cy="-23" r="20" fill="#29213e" stroke="#c5b0ff"/><text x="104" y="-17" font-size="16" fill="#c5b0ff" text-anchor="middle">{ }</text>
+<circle class="glimmer" cx="-14" cy="114" r="17" fill="#352b25" stroke="#ffd291"/><text x="-14" y="119" font-size="17" fill="#ffd291" class="mono" text-anchor="middle">?</text>
+</g>
+  <path d="M34 330H968" stroke="#263850"/>
+  <text x="34" y="349" font-size="10" fill="#b2bfd6" class="mono" >A WORK IN PROGRESS. A MIND IN MOTION.</text></g>
+<rect x=".5" y=".5" width="999" height="359" rx="20" fill="none" stroke="#303b56"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="158" viewBox="0 0 600 158" role="img" aria-labelledby="title desc">
+<title id="title">Research, experiment, understand, improve</title><desc id="desc">My learning loop.</desc>
+<defs>
+<linearGradient id="spectrum"><stop stop-color="#6aead8"/><stop offset=".5" stop-color="#a79aff"/><stop offset="1" stop-color="#ffd291"/></linearGradient>
+<linearGradient id="name" x2="1" y2=".3"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#c7caff"/></linearGradient>
+<radialGradient id="wash"><stop stop-color="#5f3ba2" stop-opacity=".35"/><stop offset="1" stop-color="#0b1223" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan"><stop stop-color="#0c766f" stop-opacity=".2"/><stop offset="1" stop-color="#0b1223" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".8" fill="#3d4964" opacity=".5"/></pattern>
+<clipPath id="edge"><rect width="600" height="158" rx="20"/></clipPath>
+</defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.spin{transform-box:fill-box;transform-origin:center;animation:orbit 19s linear infinite}.reverse{animation-direction:reverse;animation-duration:28s}.flow{stroke-dasharray:6 13;animation:flow 5s linear infinite}.glimmer{animation:glimmer 4s ease-in-out infinite}.cursor{animation:cursor 2.4s steps(1,end) infinite}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes flow{to{stroke-dashoffset:-190}}@keyframes glimmer{0%,100%{opacity:.55}50%{opacity:1}}@keyframes cursor{0%,60%{opacity:1}61%,100%{opacity:.2}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#edge)"><rect width="600" height="158" fill="#0b1223"/><rect width="600" height="158" fill="url(#dots)"/><ellipse cx="510" cy="71.10000000000001" rx="192" ry="126.4" fill="url(#wash)"/><ellipse cx="120" cy="158" rx="300" ry="126.4" fill="url(#cyan)"/>
+  <path class="flow" d="M130 43H470V117H130" fill="none" stroke="url(#spectrum)" stroke-width="2"/>
+  <rect x="27" y="20" width="250" height="44" rx="11" fill="#121e32" stroke="#39465e"/><text x="152" y="49" font-size="19" fill="#6aead8" class="mono" text-anchor="middle">RESEARCH</text><rect x="322" y="20" width="250" height="44" rx="11" fill="#121e32" stroke="#39465e"/><text x="447" y="49" font-size="19" fill="#c5b0ff" class="mono" text-anchor="middle">EXPERIMENT</text><rect x="27" y="94" width="250" height="44" rx="11" fill="#121e32" stroke="#39465e"/><text x="152" y="123" font-size="19" fill="#ffd291" class="mono" text-anchor="middle">UNDERSTAND</text><rect x="322" y="94" width="250" height="44" rx="11" fill="#121e32" stroke="#39465e"/><text x="447" y="123" font-size="19" fill="#6aead8" class="mono" text-anchor="middle">IMPROVE</text></g>
+<rect x=".5" y=".5" width="599" height="157" rx="20" fill="none" stroke="#303b56"/>
+</svg>

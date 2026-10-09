@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">GK — Gagan Kumar</title><desc id="desc">A cyan and green GK monogram inside a dark control-room frame.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#163044" stroke-width=".5"/></pattern><radialGradient id="glow"><stop stop-color="#143947" stop-opacity=".85"/><stop offset="1" stop-color="#080f18" stop-opacity="0"/></radialGradient><linearGradient id="bar"><stop stop-color="#52e0ef"/><stop offset="1" stop-color="#b7f76b"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.spin{transform-box:fill-box;transform-origin:center;animation:spin 16s linear infinite}.pulse{animation:pulse 3.8s ease-in-out infinite}.flow{stroke-dasharray:8 12;animation:flow 5s linear infinite}.draw{stroke-dasharray:600;animation:draw 5s ease-in-out infinite}.cursor{animation:cursor 2.4s steps(1,end) infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-160}}@keyframes draw{0%,12%{stroke-dashoffset:600}65%,100%{stroke-dashoffset:0}}@keyframes cursor{0%,55%{opacity:1}56%,100%{opacity:.25}}@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}</style>
+<rect x=".5" y=".5" width="511" height="511" rx="16" fill="#080f18" stroke="#243849"/>
+
+  <rect x="32" y="32" width="448" height="448" rx="62" fill="#101c2a" stroke="#294959" stroke-width="2"/>
+  <path d="M65 151V104Q65 65 104 65H153M359 65H408Q447 65 447 104V153M447 359V408Q447 447 408 447H359M153 447H104Q65 447 65 408V359" fill="none" stroke="#52e0ef" stroke-width="6"/>
+  <text x="250" y="316" fill="#eef6fc" font-size="172" text-anchor="middle" font-weight="800" letter-spacing="-16">GK</text>
+  <path d="M154 358H354" stroke="url(#bar)" stroke-width="9"/>
+  <circle cx="406" cy="110" r="9" fill="#b7f76b" /></svg>

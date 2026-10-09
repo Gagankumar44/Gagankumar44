@@ -1,79 +1,115 @@
-<h1 align="center">Hi, I'm Gagan Kumar 👋</h1>
+<picture>
+  <source media="(max-width: 600px)" srcset="./control-room/hero-mobile.svg">
+  <img src="./control-room/hero.svg" width="100%" alt="Gagan Kumar — creative builder exploring design, code and AI. Ideas become experiments. Experiments become understanding.">
+</picture>
 
 <p align="center">
-  <strong>Building AI-powered web apps, polished frontends, and practical developer tools.</strong>
+  <a href="#operator-profile">Operator profile</a> &nbsp; / &nbsp;
+  <a href="#project-archive">Project archive</a> &nbsp; / &nbsp;
+  <a href="#next-mission">Next mission</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Frontend+Developer+%7C+AI+App+Builder;React+%2B+TypeScript+%2B+JavaScript;Turning+ideas+into+clean%2C+interactive+web+experiences" alt="Typing animation" />
-</p>
+## Operator profile
 
-<p align="center">
-  <a href="https://github.com/Gagankumar44?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20Repos-238636?style=for-the-badge&logo=github" alt="View repositories" /></a>
-  <img src="https://img.shields.io/badge/Portfolio-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=vercel" alt="Portfolio placeholder" />
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn placeholder" />
-</p>
+**I'm Gagan. I’m exploring the space between visual storytelling, creative coding, and AI.**
 
----
+Photography and cinematography make me curious about how an experience *feels*. Building software makes me curious about how it *works*. This profile is where those interests meet: interfaces with motion, small useful tools, and experiments that turn an idea into something I can explore.
 
-## 🚀 About Me
+I use AI-assisted building while learning the code and decisions underneath it. Each project is a chance to understand more, improve the details, and make the next version better.
 
-I am focused on building practical web projects with clean UI, useful interactions, and developer-friendly structure. My current work is around AI-assisted app building, frontend interfaces, and small tools that solve real everyday problems.
+**My current thread:** design something interesting → build a small version → understand it → refine it.
 
-- 🔭 Currently building: **AI-powered app workflows and interactive web experiences**
-- 🌱 Improving every day in: **React, TypeScript, JavaScript, UI engineering, and product thinking**
-- ⚡ I like creating: **clean layouts, smooth interactions, useful dashboards, and browser-based tools**
-- 🎯 Goal: **turn ideas into polished, working products**
+## Project archive
 
-## 🧰 Tech Stack
+Selected public experiments, with their current stage clearly marked. Open a project to explore its code and notes.
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/Chart.js-111827?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-</p>
+<a href="https://github.com/Gagankumar44/heros-landing-page-1">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./control-room/project-hero-vault-mobile.svg">
+    <img src="./control-room/project-hero-vault.svg" width="100%" alt="01 — Hero Vault. A motion study. Open the repository.">
+  </picture>
+</a>
 
-## ⭐ Featured Projects
+### Can a landing page feel like an opening scene?
 
-| Project | What it does | Stack | Links |
-| --- | --- | --- | --- |
-| **GaGcodes** | Structured AI builder for creating apps step by step without breaking code. | React, TypeScript, Vite, Tailwind, Google GenAI | [Repo](https://github.com/Gagankumar44/GaGcodes) · [Live Demo](https://gagankumar44.github.io/GaGcodes/) |
-| **Expense Tracker** | Browser-based expense tracker with local storage, category totals, and chart visualization. | HTML, CSS, JavaScript, Chart.js | [Repo](https://github.com/Gagankumar44/expense-tracker) · [Live Demo](https://gagankumar44.github.io/expense-tracker/) |
-| **Hero Vault Landing Page** | Animated product landing page concept with GSAP motion, parallax, product cards, and ecommerce-style UI. | HTML, CSS, JavaScript, GSAP | [Repo](https://github.com/Gagankumar44/heros-landing-page-1) |
+**Hero Vault** explores a Marvel-inspired storefront through animation, scrolling, and visual storytelling. It is a frontend concept and motion study.
 
-## 📊 GitHub Stats
+`HTML` · `CSS` · `JavaScript` · `GSAP`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gagankumar44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagankumar44&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+[Explore the project ↗](https://github.com/Gagankumar44/heros-landing-page-1) · [Open the prototype source](https://github.com/Gagankumar44/heros-landing-page-1/blob/main/sec.html)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagankumar44&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagankumar44&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
-</p>
+<a href="https://github.com/Gagankumar44/expense-tracker">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./control-room/project-expense-tracker-mobile.svg">
+    <img src="./control-room/project-expense-tracker.svg" width="100%" alt="02 — Expense Tracker. A browser prototype. Open the repository.">
+  </picture>
+</a>
 
-## 📌 Add These Details Later
+### Can everyday numbers become easier to understand?
 
-These are intentionally left as placeholders so the profile stays accurate:
+**Expense Tracker** is a small browser tool for adding expenses, seeing totals, and comparing spending by category. Entries stay in the browser through local storage.
 
-- Portfolio: `[Portfolio URL]`
-- LinkedIn: `[LinkedIn URL]`
-- Email: `[Email]`
-- Location: `[Location]`
+`HTML` · `CSS` · `JavaScript` · `Chart.js`
 
----
+[Explore the project ↗](https://github.com/Gagankumar44/expense-tracker) · [Read the application logic](https://github.com/Gagankumar44/expense-tracker/blob/main/script.js)
 
-<p align="center">
-  <strong>Code. Build. Learn. Ship. Repeat.</strong>
-</p>
+<br>
+
+<a href="https://github.com/Gagankumar44/GaGcodes">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./control-room/project-gagcodes-mobile.svg">
+    <img src="./control-room/project-gagcodes.svg" width="100%" alt="03 — GaGcodes. An early concept for a structured AI app-building workflow. Open the repository.">
+  </picture>
+</a>
+
+### Could AI-assisted building feel more structured?
+
+**GaGcodes** explores a step-by-step app-building workflow. The public repository currently contains project setup and planning; the application implementation is not yet included.
+
+Planned foundation: `React` · `TypeScript` · `Vite` · `Google GenAI`
+
+[Explore the concept ↗](https://github.com/Gagankumar44/GaGcodes)
+
+<br>
+
+[Browse all public repositories →](https://github.com/Gagankumar44?tab=repositories)
+
+## Inside the control room
+
+| Area | What I’m working with or exploring |
+| :--- | :--- |
+| **Web foundations** | HTML, CSS, JavaScript, and browser storage |
+| **Motion & presentation** | GSAP, visual hierarchy, and interface details |
+| **Making information visible** | Chart.js and simple data displays |
+| **Next learning steps** | React, TypeScript, and structured AI app workflows |
+| **Creative lens** | Photography, cinematography, and visual storytelling |
+
+<details>
+<summary><strong>Behind the interface — how this profile works</strong></summary>
+
+The control-room graphics are small, original SVG files stored in this repository. Their motion is decorative: the signal paths are a visual metaphor for ideas moving into experiments, not live activity or performance data.
+
+The artwork uses CSS animation with a reduced-motion fallback, a separate mobile header, and no external stats services. Project descriptions and links remain normal text.
+
+[Explore the profile source](./tools/build-control-room.mjs) · [Design and maintenance notes](./docs/CONTROL_ROOM.md)
+
+</details>
+
+## Next mission
+
+<a href="https://www.linkedin.com/in/gagan-kumar-b061482b0/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./control-room/next-mission-mobile.svg">
+    <img src="./control-room/next-mission.svg" width="100%" alt="Next mission — make something worth opening. Connect with Gagan on LinkedIn.">
+  </picture>
+</a>
+
+Interested in **hackathon teams, creative collaborations, internships, and conversations about useful products**.
+
+Have a problem to explore, an interface to rethink, or an experiment to try?
+
+**[Let’s connect on LinkedIn ↗](https://www.linkedin.com/in/gagan-kumar-b061482b0/)** · [Explore my repositories](https://github.com/Gagankumar44?tab=repositories)
+
+<p align="center"><sub>Observe closely. Build curiously. Keep improving.</sub></p>

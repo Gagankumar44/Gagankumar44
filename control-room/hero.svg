@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="432" viewBox="0 0 1000 432" role="img" aria-labelledby="title desc">
+<title id="title">Gagan Kumar — Developer control room</title><desc id="desc">Creative builder. Ideas become experiments; experiments become understanding. Design, code and AI, with an animated conceptual idea network.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#163044" stroke-width=".5"/></pattern><radialGradient id="glow"><stop stop-color="#143947" stop-opacity=".85"/><stop offset="1" stop-color="#080f18" stop-opacity="0"/></radialGradient><linearGradient id="bar"><stop stop-color="#52e0ef"/><stop offset="1" stop-color="#b7f76b"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.spin{transform-box:fill-box;transform-origin:center;animation:spin 16s linear infinite}.pulse{animation:pulse 3.8s ease-in-out infinite}.flow{stroke-dasharray:8 12;animation:flow 5s linear infinite}.draw{stroke-dasharray:600;animation:draw 5s ease-in-out infinite}.cursor{animation:cursor 2.4s steps(1,end) infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-160}}@keyframes draw{0%,12%{stroke-dashoffset:600}65%,100%{stroke-dashoffset:0}}@keyframes cursor{0%,55%{opacity:1}56%,100%{opacity:.25}}@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}</style>
+<rect x=".5" y=".5" width="999" height="431" rx="16" fill="#080f18" stroke="#243849"/>
+
+  <rect x="1" y="1" width="998" height="430" rx="16" fill="url(#grid)"/>
+  <text x="32" y="37" fill="#52e0ef" font-size="14" class="mono" >GAGAN / CONTROL ROOM</text><text x="968" y="37" fill="#9bb1c3" font-size="13" class="mono" text-anchor="end">DESIGN  /  CODE  /  AI</text><path d="M32 57H968" stroke="#243849" />
+  <text x="36" y="104" fill="#9bb1c3" font-size="15" class="mono" >CREATIVE BUILDER</text>
+  <text x="30" y="191" fill="#eef6fc" font-size="75" font-weight="800" letter-spacing="-2">GAGAN KUMAR</text>
+  <text x="35" y="237" fill="#52e0ef" font-size="27" >Ideas become experiments.</text>
+  <text x="35" y="273" fill="#eef6fc" font-size="25" >Experiments become understanding.</text>
+  <text x="36" y="326" fill="#b7f76b" font-size="17" class="mono" >&gt; design. build. learn.</text><rect class="cursor" x="275" y="312" width="9" height="17" fill="#b7f76b"/>
+  <circle cx="815" cy="212" r="160" fill="url(#glow)"/>
+  <g fill="none" stroke="#243849"><circle cx="815" cy="212" r="112"/><circle cx="815" cy="212" r="80.64"/><circle cx="815" cy="212" r="43.68"/><path d="M688 212H942M815 85V339" stroke-dasharray="3 7"/></g>
+  <g class="spin"><circle cx="815" cy="212" r="112" fill="none" stroke="#52e0ef" stroke-width="2" stroke-dasharray="44 659.696"/><circle cx="927" cy="212" r="4" fill="#52e0ef" /></g>
+  <path d="M729.88 250.08L772.44 158.24L871 182.88L859.8 273.6L729.88 250.08L815 212L871 182.88" fill="none" stroke="#315d70" stroke-width="1.4"/>
+  <path class="flow" d="M729.88 250.08L815 212L871 182.88" fill="none" stroke="#52e0ef" stroke-width="2"/>
+  <circle cx="729.88" cy="250.08" r="5" fill="#52e0ef" /><circle cx="772.44" cy="158.24" r="4" fill="#9bb1c3" /><circle cx="871" cy="182.88" r="6" fill="#b7f76b" class="pulse"/><circle cx="859.8" cy="273.6" r="4" fill="#9bb1c3" />
+  <rect x="786" y="191" width="58" height="42" rx="9" fill="#101c2a" stroke="#52e0ef"/>
+  <text x="815" y="219" fill="#eef6fc" font-size="20" class="mono" text-anchor="middle" font-weight="bold">GK</text>
+  <text x="815" y="354" fill="#9bb1c3" font-size="12" class="mono" text-anchor="middle">THE IDEA NETWORK</text>
+  <path d="M32 379H968" stroke="#243849" /><circle cx="39" cy="405" r="3" fill="#b7f76b" class="pulse"/><text x="51" y="410" fill="#9bb1c3" font-size="12" class="mono" >ALWAYS LEARNING</text>
+  <text x="968" y="410" fill="#9bb1c3" font-size="12" class="mono" text-anchor="end">VISUAL STORIES × USEFUL SOFTWARE</text></svg>
